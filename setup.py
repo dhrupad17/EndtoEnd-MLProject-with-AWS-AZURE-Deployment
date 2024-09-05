@@ -23,7 +23,7 @@ setup(
     name='EndtoEnd-MLProject-with-AWS-AZURE-Deployment',
     version='0.0.1',
     author='Dhrupad',
-    author_email='dhrupadchakraborty123@fmail.com',
+    author_email='dhrupadchakraborty123@gmail.com',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
 )
